@@ -1,6 +1,6 @@
 # pam_backdoor
 
-A simple backdoor method for use as part of a module at Glasgow Caledonian University. Provided here for access in coursework.
+A simple backdoor method for use as part of a Cybersecurity module at Glasgow Caledonian University. Provided here for access in coursework.
 
 ## Build Instructions
 Ensure all dependencies are installed on the target machine, transfer the repository over, and run the `make.sh` script.
